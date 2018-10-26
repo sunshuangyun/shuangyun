@@ -1,5 +1,5 @@
 # shuangyun
-TitanicSVM1
+
 from __future__ import division
 import scipy
 from sklearn import svm
